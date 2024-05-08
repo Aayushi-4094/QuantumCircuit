@@ -19,3 +19,5 @@ Upon running the script, you should see the Bell state circuit displayed, follow
 - Quantum Bell State: [https://en.wikipedia.org/wiki/Bell_state](https://en.wikipedia.org/wiki/Bell_state)
 
 Feel free to modify and extend this script for further experimentation with quantum circuits using Cirq.
+
+<img width="1440" alt="Screenshot 2024-05-08 at 11 19 55 AM" src="https://github.com/Aayushi-4094/QuantumCircuit/assets/97082852/8cb7035d-d16b-4197-8b26-a333db66beba">
